@@ -3,7 +3,7 @@ import csv
 import os
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'topsecret hehe'
 
 
 # Define function to get rating from OpenAI GPT-3 API
